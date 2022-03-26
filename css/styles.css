@@ -1,0 +1,26 @@
+.row{ 
+    
+}
+.top-centre{
+    text-align: center;
+}
+.box{
+
+    border: 2px solid black;
+    padding: 2px;
+}
+.box-header{
+    text-align: right;
+    background-color: pink;
+    border: 2px solid black;
+    
+    
+    
+}
+.content{
+    background-color: grey;
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
